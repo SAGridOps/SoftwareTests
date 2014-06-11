@@ -1,6 +1,6 @@
 SoftwareTests
 =============
-<a href='http://ci.sagrid.ac.za:8080/job/SAGrid%20Application%20Repo/'><img src='http://ci.sagrid.ac.za:8080/buildStatus/icon?job=SAGrid Application Repo'></a>
+[![Build Status](http://ci.sagrid.ac.za:8080/job/SAGrid%20Test%20Repos/badge/icon)](http://ci.sagrid.ac.za:8080/job/SAGrid%20Test%20Repos/)
 This repo contains the functional tests for applications which are passing installation. This is a place for users and application developers to try out their use of applications, by first having them executed in our Continuous Integration service : 
 http://ci.sagrid.ac.za:8080
 
