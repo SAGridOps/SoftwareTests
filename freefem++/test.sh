@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# check that the module works 
 module add ci
-cd $WORKSPACE
-make check
+module add freefem++
+which freefem++
